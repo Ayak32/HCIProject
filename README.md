@@ -28,7 +28,7 @@ Our project is only tested on Google Chrome; and Javascript must be enabled for 
 ## Collaboration
 
  1. Aya Kasim ahk54
-	 - Made Propose Quest Page
+	 - Made Propose Quest Pages
 	 - Organized meeting times
 	 - Assisted with the README
 	 - Managed goal-setting and project progression
